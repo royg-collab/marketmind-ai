@@ -5,7 +5,7 @@ AI-powered stock insight assistant that helps retail investors understand market
 ---
 
 ## 📸 Demo
-![App Screenshot](<img width="875" height="303" alt="image" src="https://github.com/user-attachments/assets/2127289c-9e67-4f31-87e4-130f582f883f" />)
+![App Screenshot](demo.png)
 
 
 ---
@@ -69,11 +69,11 @@ Try:
 
 ## 📊 What You Will See
 - Latest stock data
-- ![App Screenshot](<img width="817" height="686" alt="image" src="https://github.com/user-attachments/assets/f1673bb0-eb67-4568-8771-d35d3966e37d" />)
+- ![App Screenshot](demo1.png)
 
 - BUY/SELL signal  
 - AI-generated explanation
-- ![App Screenshot](<img width="780" height="371" alt="image" src="https://github.com/user-attachments/assets/3c92e0fb-9ca1-442e-aac3-9164c537839e" />)
+- ![App Screenshot](demo2.png)
 
 
 ---
