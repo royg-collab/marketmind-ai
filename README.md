@@ -5,7 +5,7 @@ AI-powered stock insight assistant that helps retail investors understand market
 ---
 
 ## 📸 Demo
-![App Screenshot](<img width="818" height="312" alt="image" src="https://github.com/user-attachments/assets/7cf175c2-7d7d-4803-8d07-88fc93e39c0a" />)
+![App Screenshot](<img width="875" height="303" alt="image" src="https://github.com/user-attachments/assets/2127289c-9e67-4f31-87e4-130f582f883f" />)
 
 
 ---
