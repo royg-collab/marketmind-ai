@@ -1,6 +1,6 @@
-# 📊 MarketMind AI – GenAI-Powered Stock Insight Assistant
+# 📊 MarketMind AI – GenAI-powered Opportunity Radar for Retail Investors
 
-AI-powered stock insight assistant that helps retail investors understand market trends using simple explanations instead of complex data.
+AI-powered Opportunity Radar for Retail Investors that helps retail investors understand market trends using simple explanations instead of complex data.
 
 ---
 
@@ -30,7 +30,7 @@ MarketMind AI:
 ---
 
 ## 🧠 Why GenAI?
-Instead of just showing signals, the system uses Generative AI to explain *why* a decision is made, making stock analysis easy even for beginners.
+MarketMind AI acts as an Opportunity Radar by not just identifying signals, but explaining their significance and relevance to retail investors in real time.
 
 ---
 
