@@ -45,19 +45,15 @@ Instead of just showing signals, the system uses Generative AI to explain *why* 
 ## ▶️ How to Run
 
 ### 1. Clone the repository
+```bash
 git clone https://github.com/royg-collab/marketmind-ai.git
-
 cd marketmind-ai
 
 ### 2. Install dependencies
 
+```bash
 pip install -r requirements.txt
-
-
-### 3. Run the app
-
-python -m streamlit run app.py
-
+streamlit run app.py
 
 ---
 
